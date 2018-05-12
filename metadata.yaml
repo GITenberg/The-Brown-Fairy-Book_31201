@@ -1,0 +1,55 @@
+_repo: The-Brown-Fairy-Book_31201
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Title; Contents; Preface; What The Rose Did To The Cypress; Ball-carrier
+  And The Bad One; How Ball-carrier Finished His Task; The Bunyip; Father Grumbler;
+  The Story Of The Yara; The Cunning Hare; The Turtle And His Bride; How Geirald The
+  Coward Was Punished; Habogi; How The Little Brother Set Free His Big Brothers; The
+  Sacred Milk Of Koumongoe; The Wicked Wolverine; The Husband Of The Rat's Daughter;
+  The Mermaid And The Boy; Pivi And Kabo; The Elf Maiden; How Some Wild Animals Became
+  Tame Ones; Fortune And The Wood-cutter; The Enchanted Head; The Sister Of The Sun.
+gutenberg_issued: '2010-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: What the rose did to the cypress -- Ball-carrier and the bad one
+  -- How Ball-carrier finished his task -- The Bunyip -- Father Grumbler -- The story
+  of Yara -- The cunning hare -- The turtle and his bride -- How Geirald the Coward
+  was punished -- Hábogi -- How the little brother set free his big brothers -- The
+  sacred milk of Koumongoé -- The wicked wolverine -- The husband of the rat's daughter
+  -- The mermaid and the boy -- Pivi and Kabo -- The elf maiden -- How some wild animals
+  became tame ones -- Fortune and the wood-cutter -- The enchanted head -- The sister
+  of the sun -- The prince and the three fates -- The fox and the Lapp -- Kisa the
+  cat -- The lion and the cat -- Which was the foolishest? -- Asmund and Signy --
+  Rübezahl -- Story of the king who would be stronger than Fate -- Story of Wali Dâd
+  the Simple-hearted -- Tale of a tortoise and of a mischievous monkey -- The knights
+  of the fish.
+title: The Brown Fairy Book
+url: http://www.gutenberg.org/ebooks/31201
